@@ -14,7 +14,7 @@
 		{
 			putchar(ch);
 		}
-		ch++
+		ch++;
 	}
 	putchar('\n');
 
