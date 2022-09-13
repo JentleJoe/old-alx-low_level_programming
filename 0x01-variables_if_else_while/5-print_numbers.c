@@ -9,9 +9,11 @@
 	int n;
 
 	for (n = 0, n < 10, n++)
-		print ("%d", n);
+	{
+		printf ("%d", n);
+	}
 
-	print('\n');
+	printf('\n');
 
 
 	return (0);
