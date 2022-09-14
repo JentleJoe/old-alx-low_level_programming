@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * _isalpha(int c) - Entry point
+ * _isalpha - Entry point
  * @c: variable used to run the check
  *
  * Return: 1 if c is a letter, lowercase or uppercase
