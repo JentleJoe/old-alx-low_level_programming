@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- * _islower - checks for lower case characters
+ * '_islower' - checks for lower case characters
  *
- * Return : 1 if c is lower and 0 otherwise
+ * Return : 1 if c is a letter otherwise 0
+ *
+ * Description - This program returns duffrent valuesnfor different result
  *
  * @c: integer value received
  *
