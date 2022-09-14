@@ -1,9 +1,11 @@
 #include "main.h"
 
 /**
- *_islower(int c) - checks for lower case characters
+ *_islower - checks for lower case characters
  *
  * Return : 1 if c is lower and 0 otherwise
+ *
+ * @c - integer value received
  *
  */
 
@@ -11,6 +13,7 @@
 int _islower(int c)
 {
 	int i = 'a';
+	int c;
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
@@ -19,5 +22,5 @@ int _islower(int c)
 			return (1);
 		}
 	}
-	return(0);
+	return (0);
 }
