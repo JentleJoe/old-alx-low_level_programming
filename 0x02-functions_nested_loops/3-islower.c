@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * '_islower' - checks for lower case characters
+ * _islower - checks for lower case characters
  *
- * Return : 1 if c is a letter otherwise 0
+ * Return : 1 if c is a lowercase otherwise 0
  *
  * Description - This program returns duffrent valuesnfor different result
  *
@@ -23,5 +23,6 @@ int _islower(int c)
 			return (1);
 		}
 	}
+
 	return (0);
 }
