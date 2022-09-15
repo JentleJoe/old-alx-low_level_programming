@@ -9,3 +9,5 @@
 4.	Program that checks for alphabetic character
 
 5.	Program that prints sign of a number
+
+6.	Program that computes the absolute value of an integer.
