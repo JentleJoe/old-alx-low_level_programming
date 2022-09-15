@@ -10,4 +10,6 @@
 
 5.	Program that prints sign of a number
 
-6.	Program that computes the absolute value of an integer.
+6.	Program that computes the absolute value of an integer
+
+7.	Program that prints the last digit of a number
