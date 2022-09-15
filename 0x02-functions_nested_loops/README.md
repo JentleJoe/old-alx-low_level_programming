@@ -17,3 +17,5 @@
 8.	Program that prints every minute of the day of Jack Bauer, starting at 00:00
 
 9.	Program tha prints the 9 times table, starting with 0
+
+10.	Program that adds two numbers and returns the result
