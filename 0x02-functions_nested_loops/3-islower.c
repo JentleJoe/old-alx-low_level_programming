@@ -1,28 +1,22 @@
 #include "main.h"
 
 /**
- * _islower - checks for lower case characters
- *
- * Return : 1 if c is a lowercase otherwise 0
- *
- * Description - This program returns duffrent valuesnfor different result
- *
- * @c: integer value received
- *
+ * _islower - Entry point
+ * Description: checks is a character is lowercase
+ * @c: the integer value it receives
+ * Return: 1 if true. 0 if false.
  */
-
-
 int _islower(int c)
 {
-	int i = 'a';
+int i = 'a';
 
-	for (i = 'a'; i <= 'z'; i++)
-	{
-		if (c == i)
-		{
-			return (1);
-		}
-	}
-
-	return (0);
+for (i = 'a'; i <= 'z'; i++)
+{
+/* refer int c*/
+if (c == i)
+{
+return (1);
+}
+}
+return (0);
 }
