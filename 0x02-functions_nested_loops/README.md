@@ -19,3 +19,5 @@
 9.	Program tha prints the 9 times table, starting with 0
 
 10.	Program that adds two numbers and returns the result
+
+11.	Program that prints all natural numbers from n to 98, followed by a newline
