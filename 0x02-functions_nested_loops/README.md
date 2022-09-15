@@ -13,3 +13,5 @@
 6.	Program that computes the absolute value of an integer
 
 7.	Program that prints the last digit of a number
+
+8.	Program that prints every minute of the day of Jack Bauer, starting at 00:00
