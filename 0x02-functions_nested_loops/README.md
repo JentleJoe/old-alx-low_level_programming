@@ -15,3 +15,5 @@
 7.	Program that prints the last digit of a number
 
 8.	Program that prints every minute of the day of Jack Bauer, starting at 00:00
+
+9.	Program tha prints the 9 times table, starting with 0
