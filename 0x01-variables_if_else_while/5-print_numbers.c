@@ -2,18 +2,22 @@
 
 /**
  * main - prints the text
- * Return: 0
+ * Return: 0 if successful
  */
-	int main(void)
-{
-	int n;
 
-	for (n = 0; n < 10; n++)
+int main(void)
+{
+	int i;
+
+	i = 0;
+
+	while (i >= 0 && i < 10)
 	{
-		printf("%d", n);
+		printf("%d", i);
+		i++;
 	}
 
-	printf('\n');
+	printf("\n");
 
 
 	return (0);
