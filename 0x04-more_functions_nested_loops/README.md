@@ -7,3 +7,5 @@
 3.	Function that prints the numbers, from 0 to 9, followed by a new line
 
 4.	Function that prints the numbers, from 0 to 9, followed by a new line using _putchar
+
+5.	Function that prints 10 times the numbers, from 0 to 14, followed by a new line
