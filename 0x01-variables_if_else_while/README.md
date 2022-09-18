@@ -15,3 +15,5 @@
 7.	Pcharrogram that prints the lowercase alphabet in reverse, followed by a new line
 
 8.	Program that prints hexadecimals with putchar only
+
+9.	Program that prints all possible combinations of single-digit numbers
