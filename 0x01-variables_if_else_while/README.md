@@ -12,4 +12,6 @@
 
 6.	Program that prints all single digit numbers of base 10 starting from 0 using putchar
 
-7.	Program that prints the lowercase alphabet in reverse, followed by a new line
+7.	Pcharrogram that prints the lowercase alphabet in reverse, followed by a new line
+
+8.	Program that prints hexadecimals with putchar only
