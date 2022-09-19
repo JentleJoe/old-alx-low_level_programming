@@ -21,6 +21,10 @@
 			}
 			putchar (i + '0');
 			putchar (a + '0');
+			if ((i == 8) && (a == 9))
+			{
+				break;
+			}
 			putchar (',');
 			putchar (' ');
 		}
