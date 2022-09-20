@@ -18,4 +18,6 @@
 
 9.	Program that prints all possible combinations of single-digit numbers
 
-10.	Program that prints all possible different combinations of two digits using putchar only
+100.	Program that prints all possible different combinations of two digits using putchar only
+
+101.	Program that prints all possible different combinations of three digits using putchar only
