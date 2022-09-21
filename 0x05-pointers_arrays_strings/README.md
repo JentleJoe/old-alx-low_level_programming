@@ -11,3 +11,5 @@
 5.	Function that reverses a string
 
 6.	Function that prints every other character of a string, starting with the first character
+
+7.	Function that prints half of a string, followed by a new line
