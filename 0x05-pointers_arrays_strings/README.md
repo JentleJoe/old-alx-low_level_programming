@@ -7,3 +7,5 @@
 3.	Function that prints a string, followed by a new line, to stdout
 
 4.	Function that prints a string, in reverse, followed by a new line
+
+5.	Function that reverses a string
