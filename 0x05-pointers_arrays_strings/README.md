@@ -3,3 +3,5 @@
 1.	Function that swaps the value of two integer
 
 2.	Function that returns the length of a string
+
+3.	Function that prints a string, followed by a new line, to stdout
