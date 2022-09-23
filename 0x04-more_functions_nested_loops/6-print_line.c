@@ -1,20 +1,27 @@
 #include "main.h"
 
 /**
- * print_line - prints a line
- * @n: variable
- *
- * Return: 0
+ * print_line - draws a staight in the terminal
+ * 
+ * Retutn - void
  */
 
 void print_line(int n)
 {
-	int a = 0;
+	int i = 0;
 
-	while (a < n && n > 0)
+	if (n > 0)
 	{
-		_putchar('_');
-		a++;
+		while (i < n)
+		{
+			_putchar ('_');
+			i++;
+		}
+		_putchar ('\n');
 	}
-	_putchar('\n');
+	else
+	{
+		_putchar ('\n');
+	}
+
 }
