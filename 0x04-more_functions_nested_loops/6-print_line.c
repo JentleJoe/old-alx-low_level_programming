@@ -2,7 +2,8 @@
 
 /**
  * print_line - draws a staight in the terminal
- * 
+ * @n: user input that determines the number of times ' _ ' is printed
+ *
  * Retutn - void
  */
 
