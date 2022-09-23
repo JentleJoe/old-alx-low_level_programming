@@ -2,7 +2,7 @@
 
 /**
  * print_diagonal - draws a staight in the terminal
- * @n: user input that determines the number of times ' _ ' is printed
+ * @n: user input that determines the number of times ' \ ' is printed
  *
  * Retutn - void
  */
@@ -10,7 +10,7 @@
 void print_diagonal(int n)
 {
 	int i = 0;
-	int a ;
+	int a;
 
 	if (n > 0)
 	{
@@ -18,7 +18,7 @@ void print_diagonal(int n)
 		{
 			_putchar ('\\');
 
-			if (i == (n-1))
+			if (i == (n - 1))
 			{
 				break;
 			}
