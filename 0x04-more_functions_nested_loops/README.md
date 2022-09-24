@@ -13,3 +13,5 @@
 6.	Program that draws a straight line in the terminal
 
 7.	Function that draws a diagonal line on the terminal
+
+8.	Function that prints square
