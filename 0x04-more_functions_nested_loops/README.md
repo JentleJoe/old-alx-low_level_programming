@@ -15,3 +15,5 @@
 7.	Function that draws a diagonal line on the terminal
 
 8.	Function that prints square
+
+9.	Program that prints 1 - 100 but for multiples of 3, 5 and 15 it will print Fizz, Buzz and FizzBuzz respectively
