@@ -2,25 +2,22 @@
 
 /**
  * _puts_recursion - Function to print string
- * @s : string to print
+ * @s: pointer contaiing string
  *
- * Return -
+ * Return - void
  */
 
 void _puts_recursion(char *s)
 {
-	char *p;
-
-	p = s;
-
-	if (*p != '\0')
+	if (*s != '\0')
 	{
-		_putchar(*p);
-		p = p + 1;
-		_puts_recursion(p);
+		_putchar(*s);
+		s = s + 1;
+		_puts_recursion(s);
 	}
 	else
-	_putchar ('\n');
+	{
+		_putchar ('\n');
+	}
 }
-
 
