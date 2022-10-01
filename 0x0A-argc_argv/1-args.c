@@ -2,9 +2,11 @@
 #include <stdio.h>
 
 /**
- * Program that prints the number of all arguments passed into it
- * @argv - argument vector
- * @argc - argument count
+ * main - Program that prints the number of all arguments passed into it
+ * @argv: argument vector
+ * @argc: argument count
+ *
+ * Return: 0, if successful
  *
  */
 
