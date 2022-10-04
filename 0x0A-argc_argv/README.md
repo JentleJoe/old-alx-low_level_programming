@@ -1,4 +1,4 @@
-# THIS FOLDER CONTAINS MY PRJECT IN C ARGUMENTS
+# THIS FOLDER CONTAINS MY PROJECT IN C ARGUMENTS
 ## This Readme is numbered according to the file numbers
 
 0.	Program that prints its name, followed by a new line
