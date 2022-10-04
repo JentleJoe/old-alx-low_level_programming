@@ -8,3 +8,5 @@
 2.	Program that prints all arguments it receives
 
 3.	Program that multiplies two numbers
+
+4.	Program that adds positive numbers and returns 'Error' if a non-digit argument is receved
