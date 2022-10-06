@@ -9,4 +9,8 @@
 
 3.	Program that multiplies two numbers
 
-4.	Program that adds positive numbers and returns 'Error' if a non-digit argument is receved
+4.	Program that adds positive numbers and returns 'Error'
+	if a non-digit argument is receved
+
+5.	Program that prints the minimum number of coins to
+	make change for an amount of money
