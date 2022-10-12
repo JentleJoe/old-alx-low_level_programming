@@ -1,1 +1,3 @@
+#THIS README CONTAINS A DESCRIPION ACCORDING TO THE FILE NUMBERS
 
+1.	Function that concatenates two strings

@@ -2,19 +2,20 @@
 #include <string.h>
 
 /**
- * _strcat:
+ * _strcat - concatenates two strings
+ * @dest: destination string
+ * @src: source string
  *
  * Return: concartenation result
  */
 
 char *_strcat(char *dest, char *src)
 {
+	char *a;
 
-/*	dest[(strlen(dest) - 1)];
-	src[(strlen(src) - 1)];
+	a = strcat(dest, src);
+	return (a);
 
-	return (_strcat(dest, src));
-*/
 }
 
 
