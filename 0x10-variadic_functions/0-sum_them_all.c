@@ -3,7 +3,7 @@
 
 /**
  * sum_them_all - functions that sums all numbers
- * @n: argument
+ * @n: number of arguments
  *
  * Return: Always 0
  */
