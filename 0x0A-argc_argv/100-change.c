@@ -39,7 +39,6 @@ int main(int argc, char *argv[])
 
 	else
 
-
 	{
 		if (num >= 25)
 		{

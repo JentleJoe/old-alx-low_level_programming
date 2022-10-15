@@ -21,11 +21,17 @@ char *create_array(unsigned int size, char c)
 		return (NULL);
 	}
 
-	ptr = malloc(sizeof(c) * size);
+	ptr = malloc(sizeof(char) * size);
+
+	/* returning NULL if malloc fails */
 
 	if (ptr == 0)
 	{
 		return (NULL);
+	}
+	else
+	{
+		ptr[0] = c;
 	}
 
 	return (ptr);
